@@ -1,4 +1,3 @@
 # SecondRepo
 
-
-The source code is done!
+The bash script is done for the deployment.
